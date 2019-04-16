@@ -4,4 +4,4 @@
 为实现微信消息推送，请访问Server酱（ http://sc.ftqq.com ）注册一个key，并补充到SCKEY中
 
 # 效果如下：
-![image](http://github.com/xiachong404/p30pro_monitor/raw/master/screenshots.jpg)
+![image](https://github.com/xiachong404/p30pro_monitor/raw/master/screenshots.jpg)
